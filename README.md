@@ -24,6 +24,7 @@ Pros:
 - offers block coding features
 - No steep learning curve
 - There are many resources on youtube on how to use the engine and it's features
+  
 Cons:
 - Construct 3 is not open source
 - may have to pay subscrition fee you exceed the maximum code threshold 
@@ -36,9 +37,11 @@ Step 1: Open tylersMaze_HTML5 folder with VS code. You'll able to see and edit a
 Step 2: To play the game rightclick over the index.html file and select "live preview"
 
 **Pros and Cons w/  VS code game Engine**
+
 Pros: 
 - offers more of an open source experience
 - no subscription fee needed
+
 Cons:
 - may be difficult to edit and change any featuers
 - steep learnning curve
