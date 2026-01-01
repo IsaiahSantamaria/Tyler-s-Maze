@@ -28,12 +28,12 @@ Pros:
   
 Cons:
 - Construct 3 is not open source
-- may have to pay subscrition fee you exceed the maximum code threshold 
+- may have to pay subscrition fee if you exceed the maximum code threshold 
 
 **Option 2: VS code :pencil:**
 Prerequisite: Must have Live Preview by Micsosoft Extension installed 
 
-Step 1: Open tylersMaze_HTML5 folder with VS code. You'll able to see and edit as much as you like
+Step 1: Open tylersMaze_HTML5 folder with VS code. You'll able to see and edit the program as much as you like
 
 Step 2: To play the game rightclick over the index.html file and select "live preview"
 
