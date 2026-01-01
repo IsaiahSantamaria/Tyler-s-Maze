@@ -1,6 +1,6 @@
 **Introduction**
 
-In junior year of high school, I developed a top view mini game with construct 3. I was able to export the game as a HTML5 and a C3P(construct 3 programming language) File
+In junior year of high school, I developed a top view mini game with construct 3. There are three different ways on how to extract to edit/play or learn about this game downbelow.
 
 
 **Just OPEN PLAY OPTION 🎮**
